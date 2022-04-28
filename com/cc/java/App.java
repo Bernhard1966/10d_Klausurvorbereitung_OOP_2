@@ -13,7 +13,11 @@ public class App {
 
 
 
-    //sichtbarkeit
+    //sichtbarkeit + objekt = private getter u.setter 
+    //nur die eigene Klasse kann sehen entKapselung
+    // - = public
+    // rechte maus quellaktion/generatig getter und setter
+    //erzeugt eine metode
     }
 
 }
